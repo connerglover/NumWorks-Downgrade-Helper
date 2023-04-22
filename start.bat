@@ -31,6 +31,4 @@ mkdir Output
 move internal.bin Output\
 move external.bin Output\
 
-:: Opening WebDFU
-cls
-start https://ti-planet.github.io/webdfu_numworks/n0110/
+echo Process has completed.
